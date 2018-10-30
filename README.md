@@ -9,3 +9,6 @@ We will leverage these Resources
 * [ChromeDriver - WebDriver for Chrome](https://sites.google.com/a/chromium.org/chromedriver/downloads)
 * [Selenium-Python ReadTheDocs](http://selenium-python.readthedocs.io/)
 * [Author's Medium Post](https://medium.com/the-andela-way/introduction-to-web-scraping-using-selenium-7ec377a8cf72)
+
+### Note
+The code assumes that Chromedriver executable will be in the current directory.
