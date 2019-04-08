@@ -10,7 +10,7 @@ def init_browser(timeout=10):
     # Specifying incognito mode as you launch your browser[OPTIONAL]
     option = webdriver.ChromeOptions()
     option.add_argument("--incognito")
-    #option.add_argument("--headless")
+    option.add_argument("--headless")
 
     # Create new Instance of Chrome in incognito mode
     browser = webdriver.Chrome(executable_path='./chromedriver', options=option)

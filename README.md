@@ -12,3 +12,5 @@ We will leverage these Resources
 
 ### Note
 The code assumes that Chromedriver executable will be in the current directory.
+Download the Chromedriver from the site above, copy the .zip file into this
+directory and then run unzip on it.
